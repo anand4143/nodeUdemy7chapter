@@ -1,0 +1,17 @@
+.fom-control{
+    margin: 1rem 0;
+}
+.fom-control label,
+.fom-control input{
+    display: block;
+    width: 100%;
+    margin-bottom: 0.25rem;
+}
+.fom-control input{
+    border: 1px solid #a1a1a1;
+    font:inherit;
+    border-radius:2px;
+}
+.fom-control input:focus{
+    outline-color: #00695c;
+}
